@@ -57,9 +57,3 @@ Two main plots were generated to visualize the findings:
 - **Model Sensitivity:** **SVM (M5)** showed the most significant drop in accuracy when moving from random sampling to systematic/stratified methods, indicating higher sensitivity to data ordering and distribution.
 
 ---
-
-## 4. How to Run
-1. Ensure the dataset `Creditcard_data (sampling).csv` is in the same directory as your script.
-2. Install dependencies:
-   ```bash
-   pip install pandas numpy scikit-learn matplotlib
